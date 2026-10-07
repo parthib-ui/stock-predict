@@ -502,7 +502,7 @@ The project is intended for **educational and research purposes only**.
 
 **Parthib Ghosh**
 
-GitHub: [@Subhayu004](https://github.com/parthib-ui)
+GitHub: [@parthib-ui](https://github.com/parthib-ui)
 
 ---
 
